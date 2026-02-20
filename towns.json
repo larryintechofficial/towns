@@ -1,0 +1,354 @@
+{
+  "Kenya": [
+    {
+      "county": "Nairobi",
+      "towns": ["Buruburu", "Dagoretti", "Dandora", "Eastleigh", "Embakasi", "Githurai", "Gigiri", "Huruma", "Industrial area",
+    "Juja Road Area", "Kabete", "Kahawa", "Kangemi", "Karen", "Kasarani", "Kawangware", "Kayole", "Kibera", "Kileleshwa", 
+     "Kilimani", "Kitisuru", "Korogocho", "Lang'ata", "Lavington", "Lower Kabete", "Loresho", "Madaraka", "Makadara", "Mathare",
+     "Mbati", "Mukuru","Nairobi CBD", "Nairobi West", "Ngara", "Njiru", "Pangani", "Parklands", "Pipeline", "Roysambu", "Ruai",
+    "Runda", "South B", "South C", "Umoja", "Upper Hill", "Uthiru", "Westlands" ]
+    },
+    {
+      "county": "Mombasa",
+      "towns": ["Airport Area", "Bamburi", "Bofu", "Bondeni", "Chaani", "Changamwe", "Frere Town",
+       "Ganjoni", "Jomvu", "Jomvu Kuu", "Junda", "Kadzandani", "Kengeleni", "Kiembeni", "Kilindini", "Kipevu", 
+       "Kiringotini", "Kisauni", "Kizingo", "Kongowea", "Kuze", "Likoni", "Lunga Lunga", "Magogoni", "Majengo", "Makadara", "Mbaraki",
+    "Mikindani", "Miritini", "Mjambere", "Mji wa Kale(Old Town)", "Mkomani", "Mombasa CBD", "Mtongwe", "Mtopanga", "Mwakirunge", "Nyali",
+"Nyali Estate", "Old Town", "Port Reitz", "Shanzu", "Shika Adabu", "Shimanzi", "Timbwani", "Tononoka", "Tudor (Upper and Lower", "Utange",
+ "Ziwa La Ng'ombe"]
+    },
+    {
+      "county": "Kwale",
+      "towns": ["Bamburi", "Diani Beach", "Dzombo", "Gazi", "Gombato","Kanana", "Kikoneni", "Kinango", "Kinondo", "Kombani", "Kwale Town",
+      "Lunga Lunga","Mackinnon Road", "Maji ya Chumvi", "Mariakani (Bordering Kilifi)", "Matuga", "Mkongani", "Msambweni",
+       "Mwereni","Ndavaya", "Ng’ombeni","Pongwe", "Puma", "Ramisi", "Samburu","Shimoni", "Shimba Hills","Taru","Timbwani","Tiwi","Ukunda",
+    "Vanga","Waa"]
+    },
+    {
+      "county": "Kilifi",
+      "towns": ["Adu", "Bamba", "Bamburi", "Baricho", "Chasimba", "Chonyi", "Dabaso", "Ganda", "Ganze", "Garashi","Gende", "Gongoni", "Jaribuni", 
+      "Jibana", "Jilore","Junju","Kakuyuni", "Kaloleni", "Kambe", "Kauma", "Kibaoni", "Kibarani", "Kikambala", "Kilifi Town",
+      "Kinondo", "Kisauni (Kilifi border)", "Kurawa", "Kuruwitu","Madunguni", "Magarini", "Majengo", "Malindi", 
+      "Mambrui", "Marafa (Hell's Kitchen)", "Mariakani (Border town)", "Matsangoni", "Mazeras", "Mnarani", "Mtepeni", "Mtwapa", "Mwarakaya",
+      "Mwawesa","Ngomeni","Pwani","Rabai", "Ribe", "Ruruma","Sabaki", "Shanzu", "Shella", "Shimo la Tewa", "Sokoke", "Sokoni","Takaungu",
+       "Tezo", "Utange (Kilifi side)","Vipingo", "Vitengeni","Watamu"]
+    },
+    {
+      "county": "Tana River",
+      "towns": ["Hola","Adu", "Asako", "Bangale", "Boka", "Boji", "Bura (Major irrigation hub)", "Chakamba", "Chewani", "Chewele",
+       "Dayate", "Garsen", "Galedyertu", "Hirimani", "Hola", "Idsowe", "Jalalanto", "Kamwangi", "Kilelengwani",
+        "Kinakomba", "Kipini", "Kone", "Madogo", "Mambrui", "Mikinduni", "Minjila", "Mororo", "Mwakirunge", "Nanighi", "Ngao",
+        "Orma settlements", "Saka", "Sala", "Tana Delta centers", "Waldena", "Wayu", "Wenje"]
+    },
+    {
+      "county": "Lamu",
+      "towns": ["Amu", "Baharini", "Bajumwali", "Bargoni", "Basuba", "Bodhei", "Bomani","Chalaluma", "Chundwa", "Faza", "Hindi", "Hongwe",
+      "Ishakani", "Katsakairu", "Kibaoni", "Kichwa cha Kati", "Kikoneni", "Kipungani", "Kiunga", "Kiwayu", "Kizingitini", "Kiongwe",
+       "Lamu Town", "Majembeni", "Manda (Island/Airport area)", "Mapenya", "Matondoni", "Mkokoni", "Mokowe",
+       "Moa", "Mpeketoni", "Ndau", "Pate", "Ras Kitau", "Shela", "Shanga", "Siyu", "Tchundwa", "Uziwa", "Witu"]
+    },
+    {
+      "county": "Taita-Taveta",
+      "towns": ["Bomani", "Bungule", "Bura", "Chala", "Chawia", "Chumvini", "Dembwa", "Ghazi", "Ghazi", "High Level", "Ikanga",
+      "Itinyi", "Jipe", "Kajire", "Kaloleni", "Kamleza", "Kasigau", "Kiwalwa", "Kishamba", "Kishushe", "Kwamngele", "Lushangonyi",
+      "Mackinnon Road (Border)", "Mahoo", "Maktau", "Manyani", "Marungu", "Mata", "Maungu", "Mbale", "Mboghoni",
+      "Mgange", "Mghambonyi", "Miasenyi", "Mnamu", "Mbololo", "Mtito Andei (Border)", "Mwatate", "Ndome", "Ngutuni", "Ngolia", 
+      "Njukini", "Ronge", "Rukinga", "Sagala", "Sangenyi", "Taveta (Border Town)", "Tausa", "Teita", "Tiwi (Taita side)", "Voi", "Vuria",
+      "Werugha", "Wumingu", "Wundanyi", "Wusi"]
+    },
+    {
+      "county": "Garissa",
+      "towns": ["Abakaile", "Alinjur", "Balambala", "Bangale", "Baraki", "Benane", "Boka", "Bura", "Dadaab", "Damajale", "Danyere", 
+      "Dertu", "Fafi", "Galbet", "Garissa Town","Goreale", "Hagadera","Hirimani", "Hulugho", "Ifo", "Iftin", "Ijara", "Jarajila", "Jarajara",
+      "Kamuthe", "Korokora", "Kotile", "Labasigale", "Lagdera", "Liboi", "Maalimin", "Madogo (Border town)", "Masalani",
+      "Modogashe", "Mororo", "Nanighi", "Sabena", "Saka", "Sangailu", "Sankuri", "Township Ward centers"]
+    },
+    {
+      "county": "Wajir",
+      "towns": ["Ademasajida", "Arbajahan", "Banane", "Barwaqo", "Basir", "Batalu", "Biyamathow", "Buna", "Burder", "Bute", 
+      "Dadaab (Border area)", "Dad Dogh", "Dadajabulla", "Danaba", "Della", "Diff", "Dugow", "Eldas", "El Ben", "El Nur", "El Sadi",
+      "Ganyure", "Godade", "Griftu", "Gurar", "Habaswein", "Hadado", "Hamaslow", "Ibrahim Ure", "Inshir", "Khorof Harar", "Korondile",
+      "Kotulo", "Kulaaley", "Kurow", "Lafaley", "Lagboghol (North & South)", "Leisanyu", "Mansa", "Meri", "Modogashe",
+      "Mulka Gulfu", "Orgorale", "Sabule", "Sarif", "Sarman", "Sekegamada", "Tarbaj", "Tulatula", "Wagalla", "Wajir Town"]
+    },
+    {
+      "county": "Mandera",
+      "towns": ["Alungo Gof", "Arabia", "Ashabito", "Banissa", "Barwaqo", "Bulla Mpya", "Bur Mayo", "Damasa", "Dandu", "Derkhale", "Didkuro",
+      "El Wak", "El Nanow", "El Golicha", "Fino", "Gither", "Guba", "Guticha", "Hareri", "Holla", "Kalaliyo", "Kamor", "Khalalio",
+      "Kiliwehiri", "Kutulo", "Lafey", "Lagsure", "Libehia", "Malka Mari", "Malkamari", "Mandera Town", "Marothile", "Morothiley",
+      "Neboi", "Qoqay", "Rhamu", "Rhamu Dimtu", "Sala", "Shimbir Fatuma", "Takaba", "Takaba South","Waranqara", "Wargadud"]
+    },
+    {
+      "county": "Marsabit",
+      "towns": ["Ademasajida", "Arabia", "Arapal", "Arge", "Badassa", "Balesa", "Bubisa", "Buna", "Burji Manyatta", "Butiye",
+      "Chari-Ashe", "Choba", "Dabel", "Dakabaricha", "Damajale", "Dirib", "Dukana", "El-Gade", "El-Hadi", "El-Molo",
+      "Forole", "Gadamoji", "Galbet", "Golbo", "Gurumesa", "Heillu", "Illeret","Illaut","Jaldesa", "Jirime","Kalacha", "Karare",
+      "Kargi", "Korr", "Kulal","Laisamis", "Loglogo", "Loiyangalani", "Madate", "Maikona", "Marsabit Town", "Merille", "Moyale",
+      "Ngurunit", "North Horr", "Obbu", "Ol-Turot", "Sagante", "Saku", "Shura", "Sololo", "Songa", "South Horr", "Turbi", "Uran"]
+    },
+    {
+      "county": "Isiolo",
+      "towns": ["Akadeli", "Archers Post", "Banchuma", "Biliqo", "Bisan Biliqo", "Bulla Pesa", "Burat", "Bulesa", "Chari", "Cherab",
+        "Duse", "El-Dera", "Elsa Gate", "Gafarsa", "Garba Tulla", "Gotu", "Isiolo Town", "Kampi ya Juu", "Kampi ya Sheikh",
+        "Kinna", "Kom", "Korbesa", "Kubi Turkana", "Kulamawe", "Longopito", "Lorian", "Mado Gashi","Malka Daka", "Malkagalla", "Merti",
+        "Modogashe", "Ngaremara", "Oldonyiro", "Ol Doinyo Ng’iro", "Rapsu", "Sericho", "Wabera"]
+    },
+    {
+      "county": "Meru",
+      "towns": ["Abogeta", "Akachiu", "Akirang'ondu", "Akithii", "Amwathi", "Antuambui", "Antubetwe Kiongo", "Bura",
+      "Gachua", "Gaitu", "Gatimbi", "Giaki", "Githongo", "Igoji", "Imenti", "Kaaga", "Kachiuru", "Kangeta", 
+      "Kanyakine", "Karama", "Katheri", "Kathirune", "Kathithine", "Kiagu", "Kianjai", "Kibirichia", "Kiegoi", "Kiirua", "Kinoru",
+      "Kionyo", "Kirirwa", "Kirua", "Kisima", "Kithoka","Lare", "Maili Tatu", "Maua", "Meru Town", "Mikinduri", "Mitunguu",
+      "Muthara", "Mwanganthia", "Naathu", "Nchiru", "Ngarendare", "Njia", "Nkubu", "Ntima", "Ntunene", "Nyaki", "Ruiri", "Rwarera",
+      "Timau", "Tuuru"]
+    },
+    {
+      "county": "Tharaka-Nithi",
+      "towns": ["Chera", "Chiakariga", "Chogoria", "Chuka", "Gacigongoni", "Gaciongo", "Gakurungu", "Ganga", "Gatunga", "Giampapo",
+      "Gituntu", "Igakiramba", "Igambang'ombe", "Ikumbo", "Ikuu", "Irangare", "Itugururu", "Kamaende", "Kanjuki",
+      "Karingani", "Kathenaugi", "Kathwana", "Kiagu", "Kiakanyinga", "Kiangungi", "Kibugwa", "Kijegge", "Kirumi", "Kyeni",
+      "Magumoni", "Malima", "Mariani", "Marimanti", "Marima", "Mitheru", "Mukothima", "Muthambi", "Mwimbi", "Mwangareme",
+      "Nkondi", "Ntugi", "Raguta", "Rwanchege", "Tunyai", "Weru"]
+    },
+    {
+      "county": "Embu",
+      "towns": ["Blue Valley", "Bonanza", "Bondeni", "Ciamanda", "Ciambugu", "Ciangera", "Cianyi", "Dallas", 
+      "Don Bosco", "Embu Town", "Ena", "Gachavari", "Gachoka", "Gachuriri", "Gakwegori", "Gangara", "Gategi", "Gatirari", 
+       "Gatitu", "Gatunduri", "Gichera", "Gichiche", "Gikuuri", "Gitare", "Githunguri", "Iriamurai",
+       "Irangi", "Ishiara","Itabua", "Iveche", "Kaaga", "Kagaari", "Kairuri", "Kamiu", "Kangaru", "Kangethia", 
+       "Kanja", "Kanyuambora", "Karaba", "Karingari", "Karurumo", "Kasafari", "Kathangariri", "Kathangari", "Kathanjure",
+       "Kathari", "Kathugu", "Kathungure", "Kavutiri", "Kegaa", "Keria", "Kevote", "Kiambere", "Kiamuringa", "Kianjokoma", "Kianjuki",
+       "Kibogi", "Kibugu", "Kigumo", "Kirigi", "Kirimari", "Kiritiri", "Kithimu", "Kithunguriri", "Madogo", "Magumoni",
+       "Majengo", "Makawani", "Makengi", "Makima", "Manyatta", "Maranga", "Mashamba", "Matakari", "Mbita", "Mbonzuki", "Mbeti",
+       "Miandari", "Mukuuri", "Mungania", "Munyori", "Muthatari", "Mutuobare", "Muvandori", "Mwea (Embu side)", "Nchiru (Border)",
+       "Ndunduri", "Ngandori", "Nginda", "Njukiri", "Riandu", "Rianjeru", "Rianguu", "Rukuriri", "Runyenjes", "Siakago", "Ugweri"]
+    },
+    {
+      "county": "Kitui",
+      "towns": ["Athi", "Bondoni", "Buna", "Bute", "Chuluni", "Dadajabulla", "Endau", "Enziu", "Gai", "Garba Tulla", "Habaswein",
+      "Ikanga", "Ikutha", "Ikoo", "Kabati", "Kanyangi", "Kanziko", "Katulani", "Kauwi", "Khorof Harar", "Kisasi", "Kitui Town",
+      "Kwavonza", "Kyuso", "Matinyani", "Mbitini", "Merti", "Migwani", "Mokowe", "Mutha", "Mutito", "Mutomo", "Mwingi Town",
+      "Ngomeni", "Nguutani", "Nuu", "Nzambani", "Tarbaj", "Tseikuru", "Voo", "Wajir-Bor", "Waita", "Wundanyi", "Witu","Zombe"]
+    },
+    {
+      "county": "Machakos",
+      "towns": ["Athi River(Mavoko)", "Astra Farm", "Ekalakala", "Ikalaasa", "Ikombe", "Isuvya", "Kaani", "Kalama", "Kamuthwa",
+      "Kangundo", "Katangi", "Katani", "Katumani", "Kenplains", "Kinanie", "Kithimani", "Kivaa", "Kola", "Konza (Technopolis)",
+      "Machakos Town","Makutano", "Marungu", "Masii", "Masinga", "Matuu", "Mitaboni", "Mlolongo", "Mua Hills", "Mumbuni",
+      "Muthesya", "Mutituni", "Muvuti", "Mwala", "Ndalani", "Ndithini", "Nguluni", "Nzaikoni", "Syokimau", "Tala", "Wamunyu"]
+    },
+    {
+      "county": "Makueni",
+      "towns": ["Astra Farm", "Athi", "Chomboni", "Darajani", "Emali","Ianzoni", "Ilima", "Itetani", "Iuani", "Kakali",
+      "Kalamba", "Kalawa", "Kambi ya Munyu", "Kambu", "Kasikeu", "Kathekani", "Kathonzweni", "Kaumoni", "Kee", "Kibwezi", "Kikima",
+      "Kilala", "Kilungu", "Kimundu", "Kiu", "Kivani", "Konza", "Makindu", "Masongaleni", "Matiliku", "Mavindini", "Mbitini",
+      "Mbooni", "Mtito Andei", "Mukaa", "Mukuyuni", "Nguu", "Nguumo", "Nunguni", "Nzaui", "Nziu", "Salama", "Sultan Hamud", "Thange", 
+      "Tulimani", "Ukia", "Wote"]
+    },
+    {
+      "county": "Nyandarua",
+      "towns": ["Bongo", "Charagita", "Dundori","Engineer","Gathanji", "Gathara", "Gatimu", "Geta", "Githabai", "Githioro",
+      "Heni", "Kaimbaga", "Kanjuiri Ridge", "Karau", "Kasuku", "Kiburu", "Kipipiri", "Kiriita", "Kitiri", "Leshau", "Leshau Pondo",
+      "Magumu", "Mairo Inya", "Manunga", "Miharati", "Mirangine", "Murungaru", "Ndaragwa", "Njabini", "Ndunyu Njeru", "Nyakio",
+      "Ol Joro Orok", "Ol Kalou", "Passenga", "Pesi", "Rurii", "Shamata", "Tumaini", "Turasha","Wanjohi", "Weru"]
+    },
+    {
+      "county": "Nyeri",
+      "towns": ["Aguthi", "Chinga", "Dedan Kimathi (Wamagana)", "Dundori", "Endarasha", "Gachika", "Gakawa", "Gatarakwa",
+      "Gatitu", "Giagatika", "Gikondi", "Igoji", "Iria-ini", "Ishiara", "Ithekahuno", "Kabaru", "Kagumo", "Kaiyaba",
+      "Kamakwa", "Kanyama", "Karatina", "Karima", "Kiganjo", "Kirichu", "Kirimukuyu", "Konyu", "Magutu", "Mahiga",
+      "Marua", "Mathari", "Mukurwe-ini", "Mweiga", "Naro Moru", "Nyeri Town", "Nyaribo", "Othaya", "Ruguru", "Rugi", "Ruring'u",
+      "Rware", "Tetu", "Wamagana"]
+    },
+    {
+      "county": "Kirinyaga",
+      "towns": ["Baricho", "Baragwi", "Difatha", "Gacharu", "Gathoge", "Gathambi", "Gathigiriri", "Gatuto", "Githure", "Ishiara (Border area)",
+      "Inoi", "Itangi", "Kagio", "Kagumo", "Kaitheri", "Kamuiru", "Kandongu", "Kangai", "Karaba", "Kariti", "Karumandi",
+      "Kianyaga", "Kiamutugu", "Kibirigwi", "Kibingoti", "Kiburu", "Kimbimbi", "Kinyakiiru", "Kutus", "Makutano", "Mumbu", 
+      "Murinduko", "Mutira", "Mutithi", "Ngaru", "Ngariama", "Njukiine", "Nyangati", "Riakiania", "Sagana","Tebere", 
+      "Thiba", "Thumaita", "Togonye", "Wang'uru"]
+    },
+    {
+      "county": "Murang’a",
+      "towns": ["Gacharage", "Gaichanjiru", "Gatanga", "Gatura", "Gaturi", "Gitugi", "Ichagaki", "Ithanga", "Iyego", "Kabati",
+      "Kagundu-ini", "Kahatia", "Kahuro", "Kamacharia", "Kamahuha", "Kandara", "Kangari", "Kangema", "Kanyenya-ini", "Kenol",
+      "Kihumbu-ini", "Kigumo", "Kiriaini", "Kiruri", "Mabanda", "Makuyu", "Maragua", "Mbiri", "Mugoiri", "Mukuyu",
+      "Murang'a Town", "Nginda", "Ruchu", "Rwathia", "Sabasaba","Wangu"]
+    },
+    {
+      "county": "Kiambu",
+      "towns": ["Banana", "Bibirioni", "Buuri", "Gachie", "Gatundu", "Githunguri", "Githurai 44", "Githurai 45","Gitaru", "Ikinu",
+      "Ituru","Juja", "Juja Farm", "Kabete", "Kagwe", "Kamangu", "Kamirithu", "Kamiti", "Kanyariri", "Karuri", "Kihara",
+      "Kiambu Town", "Kijabe", "Kikuyu", "Kimende", "Kinango", "Kinoo", "Kinale", "Kirigiti", "Kiriita", "Kwa Maiko", "Limuru",
+      "Loreto", "Madaraka", "Mangu", "Muchatha", "Muguga", "Mundoro", "Muthaiga (Kiambu side)", "Mwihoko", "Mwiki", "Ndenderu",
+      "Ndumberi", "Ngecha", "Ngewa", "Nyadhuna", "Ondiri", "Riabai", "Rironi", "Ruaka","Ruiru", "Sigona", "Sukari", "Thika", "Tigoni",
+      "Ting’ang’a", "Uthiru", "Wangige","Witeithie"]
+    },
+    {
+      "county": "Turkana",
+      "towns": ["Amudat","Eliye Springs", "Kainuk", "Kaikor", "Kakuma", "Kalokol", "Kalobeyei", "Kalapata", "Kapedo",
+      "Kaputirr", "Katilu", "Kibish", "Lodwar","Loichangamatak", "Loima", "Lokichar", "Lokichogio", "Lokitaung", "Lokori", "Loperot", 
+      "Lowareng’ak", "Nadapal","Namuruputh", "Nanam", "Nariokotome", "Oropoi"]
+    },
+    {
+      "county": "West Pokot",
+      "towns": ["Alale", "Chepareria","Chepkono", "Chepnyal", "Cherangani", "Kabichbich", "Kacheliba", "Kamaito",
+      "Kanyarkwat", "Kapenguria", "Kaporo", "Kapsait", "Kasei", "Kodich", "Konyao","Lelan", "Lomut", "Makutano","Masol", "Mbara",
+      "Murkwijit", "Nanyuki (Local center)", "Nyangaita","Ortum", "Parua", "Ptoyo", "Sebit", "Sigor", "Sina", "Sondany", "Tapach", "Tartar"]
+    },
+    {
+      "county": "Samburu",
+      "towns": ["Archers Post", "Angata Nanyokie","Baawa", "Baragoi", "Barsaloi","El-Barta","Kauro", "Kisima","Kowap", "Kurungu",
+      "Larachi", "Latakweny", "Lesirkan", "Lodokejek", "Lodosoit", "Longewan", "Loosuk", "Lpartuk","Maralal","Marmar (Suguta Marmar)",
+      "Marti", "Morijo","Nachola", "Namarunu", "Ngilai", "Nkuroto", "Nyiro","Poro","South Horr","Swari","Tuum","Wamba", "Waso"]
+    },
+    {
+      "county": "Trans-Nzoia",
+      "towns": ["Anderson", "Aruba","Bidii", "Bobat", "Bondeni", "Cherang'any", "Chepchoina", "Chepsiro", "Cheptabach","Endebess",
+      "Gituamba", "Kabomet", "Kachibora", "Kaisagat", "Kalasit", "Kaplamai", "Kapsara", "Kapucha", "Karakut", "Keiyo", "Kiminini",
+      "Kitalale", "Kitale","Koikoi","Lessos","Makutano", "Makuyu", "Matisi", "Matunda", "Milimani", "Mitume", "Mois Bridge","Namanjalala",
+      "Nantare", "Nzoia","Saboti", "Sikhendu", "Sirende", "Sitatunga","Tuigoin"]
+    },
+    {
+      "county": "Uasin Gishu",
+      "towns": ["Ainabkoi", "Arwos","Burnt Forest","Barsombe","Chepkanga", "Cheplaskei", "Chepkoilel", "Eldoret City","Elgeyo Border",
+      "Huruma","Jua Kali","Kamagut", "Kapseret", "Kapsabet", "Kapsoya", "Kaptagat", "Karuna", "Kesses", "Kiambaa", "Kimumu",
+      "Kipkabus", "Kipkenyo", "Kipsomba", "Kondoo", "Kuinet","Langas", "Lessos","Matunda","Meibeki", "Moiben","Moi’s Bridge","Munyaka",
+      "Naiberi", "Ngeria", "Ngenyilel","Olare","Pioneer","Segero", "Sergoit", "Soy","Tapsagoi", "Tembelio", "Timboroa","Turbo"]
+    },
+    {
+      "county": "Elgeyo-Marakwet",
+      "towns": ["Arror","Bugar","Chebiemit", "Chebilil", "Chebororwa", "Chepkorio", "Chesongoch", "Chugor","Endo","Flourspar",
+      "Iten","Kamariny", "Kamuthe", "Kapcherop", "Kapchemutwa", "Kapkessum", "Kapsowar", "Kaptarakwa", "Kapyego", "Kimnai", "Kimwarer", 
+      "Kipkundul", "Kipsoen", "Kipsigak", "Kocholwo","Labot", "Lelan", "Liter","Makutano (Lelan)", "Metkei", "Mogil", "Moiben-Kuserwo",
+      "Nyaru","Sambalat", "Sangach", "Sebit", "Sengwer", "Sergoit","Tambach","Tot"]
+    },
+    {
+      "county": "Nandi",
+      "towns": ["Baraton","Bonjoge","Chemase", "Chemelil", "Chepterit", "Chepterwai", "Chepkumia","Kabiyet (Mosop HQ)", "Kaiboi",
+      "Kamobo", "Kapcheno", "Kapchorua", "Kapkangani", "Kapsabet", "Kaptumo", "Kipture", "Kipsigak", "Kobujoi", "Kosirai","Lelmokwo",
+      "Lessos","Maraba", "Meteitei", "Mogobich", "Mosoriot", "Mugundoi","Nandi Hills Town","Ndalat","Ol’Lessos","Sang'alo",
+      "Serem", "Songhor","Tinderet", "Timboroa"]
+    },
+    {
+      "county": "Baringo",
+      "towns": ["Bartabwa", "Bartolimo", "Barwessa","Cheberen", "Chemogoch", "Chemolingot", "Chemosusu", "Chepkesin", "Churo",
+      "Eldama Ravine","Emining", "Esageri","Kabarnet","Kabartonjo", "Kampi ya Samaki", "Kapedo","Kapluk", "Kapropita", "Katimok",
+      "Kimalel","Kisanana", "Kolowa", "Korosso","Lembus", "Loiyamorok", "Loruk", "Loyamorok","Maji Mazuri", "Marigat",
+      "Mogotio", "Mochongoi", "Mukutani","Ngendalel", "Nginyang","Orolwo","Sacho", "Salabani", "Seguton", "Silale","Tangulbei",
+      "Tenges", "Timboroa", "Tirioko"]
+    },
+    {
+      "county": "Laikipia",
+      "towns": ["Aljiju","Boma", "Borana","Dol Dol","Githiga", "Gitundaga","Igwamiti", "Ilpolei","Kalalu", "Kamwenje", "Karandi", "Karuga",
+      "Kinamba", "Kirichu", "Kirima", "Kisima","Lamuria", "Lariak", "Likii", "Loldaiga", "Lonyiek","Maina", "Majengo","Marmanet",
+      "Matanya", "Muthengera","Naibor", "Nanyuki","Naro Moru","Ngobit", "Nyahururu","Ol-Arabel", "Ol-Moran", "Ol-Jogi","Rumuruti",
+      "Salama", "Segera", "Sipili", "Sosian", "Subuko","Thingithu", "Tigithi","Umande", "Ukumbusho","Wiyumiririe"]
+    },
+    {
+      "county": "Nakuru",
+      "towns": ["Akira", "Athinai","Bahati", "Banita", "Barut", "Beestons","Cheptuech","Dundori","Eburru", "Elburgon", "Elementaita", "Enashae",
+      "Gilgil", "Githima","Kabatini", "Kabazi", "Kampi ya Moto", "Kamwaura", "Kandutura", "Keringet", "Kiambogo", "Kijabe","Kinungi",
+      "Kiptangwanyi", "Kiptunga", "Kongoni", "Kuresoi","Lanet","Longonot","Maai Mahiu", "Mau Narok", "Mau Summit", "Molo", "Munyuthe",
+      "Naivasha", "Nakuru City","Nanyuki", "Ngata", "Njoro","Olenguruone", "Olkaria","Pipeline","Rongai","Salgaa", "Solai", "Subukia",
+      "Turi"]
+    },
+    {
+      "county": "Narok",
+      "towns": ["Aitong", "Angata Barrikoi", "Angata Naado","Dikirr","Emarti", "Enengetia", "Eoret Narasha", "Ewaso Ng'iro",
+    "Ildamat", "Ilkerin", "Ishiara","Keekorok", "Kilgoris","Kimintet", "Kipsarian", "Kisiriri","Lemek", "Lolgorian","Loita", "Loolonito",
+    "Maji Moto", "Mararianda", "Masandare", "Melili", "Morijo", "Mosiro", "Mulot","Nairagie Ngare", "Narok Town","Narosura", "Nkorinkori",
+    "Ntulele","Olchoro", "Olokurto", "Ololulung'a","Olopito", "Olpusimoru", "Osupuko","Seyabei", "Suswa","Talek", "Trans Mara"]
+    },
+    {
+      "county": "Kajiado",
+      "towns": ["Alangarua", "Amboseli","Bartimaro", "Bissil","Dalalekutok","Elangata Wuas", "Empuyiankat", "Enkorika", "Ewuaso Kedong",
+      "Ilbisil", "Illasit (Laset)", "Ilpartimaro", "Ilyagaleni", "Isinya", "Isineti","Kajiado Town","Kalema", "Kampi ya Bibi", "Kaputiei",
+      "Karero", "Kianyaga", "Kimana", "Kiserian", "Kitengela", "Kuku","Lengesim", "Loitokitok","Lolnguswa", "Magadi", "Mailua",
+      "Mashuru", "Masimba", "Matathia", "Mbirikani", "Merueshi", "Mile 46", "Mosiro","Namanga", "Ngatataek", "Ngong", "Nkoroi",
+      "Oloolua", "Oltepesi", "Ongata Rongai", "Oloosirkon", "Oloshoibor","Rombo","Sholinke", "Sultan Hamud (Kajiado side)"]
+    },
+    {
+      "county": "Kericho",
+      "towns": ["Ainamoi", "Aronet","Belgut","Chaik", "Chamagel", "Cheborge", "Chepseon", "Cheptuech", "Cheptororiet","Fort Ternan",
+      "Kabianga", "Kaitui", "Kamasian", "Kapkatet", "Kapsoit", "Kapsoser", "Kedowa", "Kipkelion", "Kiptere", "Kipsitet",
+      "Litein", "Londiani", "Lumbwa","Mogogosiek","Roret","Sigowet", "Soin", "Sondu", "Sosiot","Tebesonik", "Tendeno"]
+    },
+    {
+      "county": "Bomet",
+      "towns": ["Bomet Town", "Boito","Chemaner", "Chemagel", "Chebunyo", "Chebole", "Chesoen", "Chepchabas", "Cheptuech",
+      "Embomos","Kaplong", "Kapkwen", "Kapkoros", "Kaboson", "Kamureito", "Kembu", "Kimulot", "Kipreres", "Kipsonoi", "Kongasis",
+      "Longisa", "Lelu","Mogogosiek", "Merigi", "Mulot", "Mutarakwa","Ndanai", "Ndarawetta", "Nyangores","Silibwet","Sotik",
+      "Sigor", "Siongiroi", "Singorwet"]
+    },
+    {
+      "county": "Kakamega",
+      "towns": ["Aisere", "Amalemba","Buchenya", "Buchifu", "Buchinga", "Bujango", "Bukaya", "Bukhaywa", "Bukoro", "Bukura",
+      "Bukusi", "Bulanda", "Bulekhero", "Bulimbo", "Bumala", "Bumini", "Burendwa", "Bushili", "Butali",
+      "Butere","Chekalini", "Chemuche", "Chevaywa","Endo", "Eregi","Eshisiru","Ikolomani", "Ilesi","Isulu", "Itakho","Kabras",
+      "Kagimet", "Kakamega Town", "Kambiri", "Khayega", "Khwisero", "Kipkaren", "Kongoni", "Koyonzo","Likuyani", "Lugari",
+      "Lumakanda", "Lwandeti","Mahira", "Malaba", "Malava", "Manda", "Matete", "Matungu", "Mayoni", "Mumias", "Musanda","Navakholo",
+      "Shianda", "Shibale", "Shinyalu", "Sigalagala", "Sinoko"]
+    },
+    {
+      "county": "Vihiga",
+      "towns": ["Banja", "Bugina","Chavakali","Cheptulu","Emuhaya", "Esibuye","Gambogi","Gisambai","Hamisi","Jebrok","Kaimosi",
+      "Kapkerer", "Kilingili","Luanda","Lunyerere","Majengo","Mbale","Mudete","Muhudu", "Mungoma", "Museno","Sabatia", "Serem (Border town)",
+      "Shamakhokho","Tiriki","Vihiga Town"]
+    },
+    {
+      "county": "Bungoma",
+      "towns": ["Bokoli", "Bumula", "Bukembe", "Bungoma Town","Chebukube", "Cheptais", "Chwele","Kabula","Kabuchai", "Kamukuywa",
+       "Kanduyi", "Kapkateny", "Kapsokwany", "Kimeti", "Kibabii", "Kimilili", "Kipkaren","Lwakhakha","Malakisi","Matisi",
+       "Mateka", "Mayanja", "Misikhu", "Mois Bridge", "Musikoma", "Myanga","Naitiri", "Nalondo", "Nan’gala", "Ndivisi","Sang'alo",
+       "Sirisia", "Sio", "Sudi","Tongaren","Webuye"]
+    },
+    {
+      "county": "Busia",
+      "towns": ["Adungosi", "Alupe", "Amagoro", "Amoni", "Amukura", "Ang'urai", "Angorom","Budalangi", "Bukiri", "Bumala",
+      "Busia Town", "Butula", "Buyofu","Funyula","Hakati","Kocholia", "Kamolo", "Kamuriai","Lukolis", "Lugulu","Malaba",
+      "Machakus", "Matayos", "Mungatsi", "Murumba","Nambale", "Nangina","Port Victoria","Sio Port"]
+    },
+    {
+      "county": "Siaya",
+      "towns": ["Akala","Ambira", "Anyieka", "Aram", "Asembo Bay","Bar Olengo", "Baragulu", "Barkowino", "Bondo", "Boro","Chavakali",
+      "Cheptulu","Gambogi", "Got Ramogi","Jera","Kadenge", "Kadimu", "Kodiaga", "Kogelo","Luanda K'Otieno","Lumakanda","Madiany",
+      "Malanga", "Misikhu", "Misori (Port","Ndere", "Ndori","Ng'iya", "Nyadorera", "Nyamonye", "Nyang'oma","Rang'ala", "Ramula",
+      "Sega","Siaya Town","Sidindi", "Sigomere","Ugunja","Ukwala", "Uranga", "Usenge","Wagai","Yala"]
+    },
+    {
+      "county": "Kisumu",
+      "towns": ["Ahero", "Awasi", "Akala","Chemelil", "Chiga","Daraja Mbili", "Dunga","Holo","Kajulu", "Kaloleni",
+      "Kanyakwar", "Katito", "Kibigori", "Kibos", "Kisian", "Kisumu City", "Kombewa", "Kondele", "Koru","Lela","Manyatta",
+       "Maseno","Miwani", "Muhoroni","Nanga", "Nyalenda", "Nyamasaria","Obunga", "Ojola", "Olare", "Onjiko","Pap Onditi", "Paw Akuche",
+    "Rabour", "Riat", "Reru","Sondu"]
+    },
+    {
+      "county": "Homa Bay",
+      "towns": ["Adungosi", "Akala","Alara", "Asumbi","Budalangi","Dhiwa","Gendia","Gwasi","Homa Bay Town","Kabondo", "Kadongo",
+      "Kanyamwa", "Kendu Bay", "Kibuon", "Kimira", "Kiwira", "Kogelo", "Kosele","Lambwe", "Luanda K'Otieno (Ferry hub to Siaya)",
+      "Magare", "Magunga", "Matayos", "Mbita", "Mfangano Island", "Mirogi","Ndhiwa","Nyandiwa Beach", "Nyansabakwa","Ombeyi",
+      "Orero", "Oyugis","Rangwe","Rapedhi", "Riwa", "Rodi Kopany", "Rusinga Island"]
+    },
+    {
+      "county": "Migori",
+      "towns": ["Awendo", "Amagoro", "Aneko","Bande","Bondo Nyironge","Giribe", "Gokeharaka","Isebania","Ikerege","Kehancha","Kanduyi",
+      "Karungu", "Kegonga", "Kitere", "Komotobo","Lolgorian","Luanda","Macalder", "Mabera", "Mariwa", "Masaba", "Migori Town", 
+      "Muhuru Bay","Ntimaru","Nyabasi","Ogwedhi Sigawa","Ranen", "Rapogi", "Rongo","Sare", "Suna","Uriri"]
+    },
+    {
+      "county": "Kisii",
+      "towns": ["Amasago", "Asumbi","Bobaracho", "Birongo", "Bogetenga", "Bomariba", "Bonchari","Etago","Gesusu", "Gesonso", "Getare", "Gucha",
+      "Ibacho", "Ichuni", "Igare", "Itierio", "Itumbe","Kamagambo", "Kanyimbo", "Kaplong", "Kegati", "Kenyenya","Keumbu", "Kiamokama",
+      "Kiogoro", "Kisii Town","Magena", "Magombo", "Marani", "Masimba", "Mosocho","Motonto","Nduru", "Nyacheki", "Nyaguta", "Nyakoe",
+       "Nyamache","Nyamarambe", "Nyambunwa", "Nyanchenge", "Nyangusu","Ogembo","Ramasha", "Riana", "Riokindo", "Rongo","Sameta", "Sengera",
+       "Suneka","Tabaka", "Tendere"]
+    },
+    {
+      "county": "Nyamira",
+      "towns": ["Bonyunyu", "Bomondo", "Borabu","Chabera","Chepilat","Ekerenyo", "Esise","Gesima", "Gesusu","Ikonge","Kebirigo",
+       "Kemera", "Keroka","Kiabonyoru", "Kijauri", "Konate","Magombo", "Magwagwa","Manga","Mekenene", "Miruka","Nyamaiya", "Nyamira Town",
+    "Nyansiongo","Nyaramba","Omogonchoro","Rigoma", "Riosiri","Sironga","Ting'a"]
+    }
+  ]
+}
